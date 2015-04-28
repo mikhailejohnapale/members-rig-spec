@@ -15,3 +15,5 @@
 | Weight                 | 4.6 lbs.                                                                                            |
 | Bluetooth              | Bluetooth 4.0, 802.11 b/g/n                                                                         |
 | Connectors             | 1 x USB 3.0 2 x USB 2.0 Audio Combo Jack (headphone and mic) HDMI-out 2-in-1 (SD / MMC) card reader |
+
+> http://shop.lenovo.com/us/en/laptops/lenovo/g-series/g40/#tab-tech_specs
