@@ -26,4 +26,4 @@
 |                        | 1 x HDMI                                                    |
 |                        | 2 -in-1 card reader ( SD/ MMC )                             |
 
-> http://shop.lenovo.com/us/en/laptops/lenovo/g-series/g40/#tab-tech_specs
+http://www.asus.com/Notebooks_Ultrabooks/K55VD/specifications/
